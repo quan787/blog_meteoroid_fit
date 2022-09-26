@@ -24,6 +24,6 @@ jobs:
         with:
           accessKeyId: ${{ secrets.ACCESS_KEY_ID }}
           accessKeySecret: ${{ secrets.ACCESS_KEY_SECRET }}
-          bucket: "blog_meteoroid_fit"
+          bucket: "blog-meteoroid-fit"
           endpoint: "oss-cn-beijing.aliyuncs.com" 
           folder: "docs/.vitepress/dist"
