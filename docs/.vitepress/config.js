@@ -27,6 +27,12 @@ export default {
                 items: [
                     { text: '总体设计', link: 'hardware/overall' }
                 ]
+            },
+            {
+                items: [{
+                    text: '京ICP备19031740号-2',
+                    link: 'https://beian.miit.gov.cn/'
+                }]
             }
         ]
     }
