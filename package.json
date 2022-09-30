@@ -13,5 +13,10 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "markdown-it": "^13.0.1",
+    "markdown-it-anchor": "^8.6.5",
+    "markdown-it-footnote": "^3.0.3"
   }
 }

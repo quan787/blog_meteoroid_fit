@@ -1,3 +1,6 @@
+import footnote from 'markdown-it-footnote'
+import { defineConfig } from 'vitepress'
+
 export default {
     title: 'meteoroid.fit',
     description: 'Just playing around.',
@@ -41,6 +44,11 @@ export default {
         footer: {
             message: '<a href="https://beian.miit.gov.cn/">京ICP备19031740号-2</a>',
             copyright: 'Copyright © 2022-present quan787'
+        }
+    },
+    markdown: {
+        config: (md) => {
+            md.use(footnote)
         }
     }
 }
