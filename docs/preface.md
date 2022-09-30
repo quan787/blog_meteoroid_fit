@@ -6,6 +6,7 @@
 
 这里是流星探测的技术博客，记录了在我们的流星观测中的发现和思考。
 
+* [前言](meteor/motivation)
 * [流星探测原理（1）](meteor/concepts)
 * [流星探测原理（2）](meteor/concepts2)
 * [世界上的流星监测网](meteor/networks)
