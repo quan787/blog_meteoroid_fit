@@ -10,7 +10,9 @@
 
 ![雷达数据绘制的流星雨辐射点](https://fireballs.ndc.nasa.gov/cmor-radiants/skymap-activity.png)  
 
-但是，流星雷达对流星的测量不如光学观测精确。由于波长较长等原因，流星雷达只能将流星的位置精确到千米量级，而光学波段可以达到10米。而依赖广播电台的“听”流星，就完全无法测量流星的方位，只能进行计数。此外，射电流星和光学流星的对应关系也并不是很确切。并不是所有光学流星都有无线电回波，这可能与流星轨迹得到朝向有关系；同时，根据一些研究[^2]，流星的亮度与雷达反射面积（RCS）有正相关的关系，但残差比较大。
+* 上图是实时的[^2]
+
+但是，流星雷达对流星的测量不如光学观测精确。由于波长较长等原因，流星雷达只能将流星的位置精确到千米量级，而光学波段可以达到10米。而依赖广播电台的“听”流星，就完全无法测量流星的方位，只能进行计数。此外，根据一些研究[^3]，射电流星和光学流星的对应关系也并不是很确切。并不是所有光学流星都有无线电回波，这可能与流星轨迹得到朝向有关系；同时，流星的亮度与雷达反射面积（RCS）有正相关的关系，但残差比较大。
 
 因为流星雷达技术难度较大，再加上无线电法规的限制，基本没有爱好者涉足。
 
@@ -40,4 +42,6 @@
 
 [^1]:[The Unexpected 2012 Draconid Meteor Storm](https://arxiv.org/abs/1311.1733)
 
-[^2]:[FRIPON: A worldwide network to track incoming meteoroids](https://www.aanda.org/articles/aa/full_html/2020/12/aa38649-20/aa38649-20.html)
+[^2]:[Radar meteor radiants](https://fireballs.ndc.nasa.gov/cmor-radiants/)
+
+[^3]:[FRIPON: A worldwide network to track incoming meteoroids](https://www.aanda.org/articles/aa/full_html/2020/12/aa38649-20/aa38649-20.html)
