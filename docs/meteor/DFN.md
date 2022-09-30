@@ -1,6 +1,6 @@
 # 澳大利亚沙漠火流星监测网
 
-澳大利亚沙漠火流星监测网是一个非常独特的流星网络，不是使用视频摄像头而是用普通单反来监控火流星。其中采取了一些有趣的技术，也获得了很好的成果，成功找到了好几颗陨石。本文就详细解读一下这个网络。
+澳大利亚沙漠火流星监测网[^1]是一个非常独特的流星网络，不是使用视频摄像头而是用普通单反来监控火流星。其中采取了一些有趣的技术，也获得了很好的成果，成功找到了好几颗陨石。本文就详细解读一下这个网络。
 
 本文的内容主要来自论文[How to build a continental scale fireball camera network](https://link.springer.com/article/10.1007/s10686-017-9532-7)。
 
@@ -48,8 +48,12 @@ DFN的观测设备主体由一台尼康D810和一个鱼眼镜头组成。单反�
 
 ![](image/20220929204821.png)  
 
-2016年，DFN找到了第二颗陨石，1.15千克的[Dingle Dell](https://en.wikipedia.org/wiki/Dingle_Dell_meteorite)。这一次，预报的落点和实际的落点只相差130m。
+2016年，DFN找到了第二颗陨石，1.15千克的[Dingle Dell](https://en.wikipedia.org/wiki/Dingle_Dell_meteorite)[^2]。这一次，预报的落点和实际的落点只相差130m。
 
 ![](image/20220929205539.png)  
 
 ![](image/20220929205320.png)  
+
+[^1]:[How to build a continental scale fireball camera network](https://link.springer.com/article/10.1007/s10686-017-9532-7)
+
+[^2]:[The Dingle Dell meteorite: a Halloween treat from the Main Belt](https://arxiv.org/abs/1803.02557)
