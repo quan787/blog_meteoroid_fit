@@ -45,7 +45,7 @@ SonotaCo是一个日本的资深爱好者，开发了著名的UFOCapture软件�
 
 * IMONET：至2014年，有450000条流星数据
 * SLOVAK VIDEO METEOR NETWORK：使用像增强器，极限星等很高，但成本也很高，只有两个站点
-* North American Meteor Network：爱好者组织，没有成果发表
+* North American Meteor Network：爱好者组织，没找到成果发表
 * Tokyo Meteor Network：活跃于90年代
 * Mexican Meteor Network：一个2016年提出的计划，依然采用模拟信号摄像头，有些落后时代
 * Sri Lanka Meteor Network：没有成果发表

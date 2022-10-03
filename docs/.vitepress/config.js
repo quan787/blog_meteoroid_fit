@@ -18,7 +18,8 @@ export default {
                     { text: '流星探测原理（1）', link: '/meteor/concepts' },
                     { text: '流星探测原理（2）', link: '/meteor/concepts2' },
                     { text: '世界上的流星监测网', link: '/meteor/networks' },
-                    { text: '澳大利亚沙漠火流星监测网', link: '/meteor/DFN' }
+                    { text: '澳大利亚沙漠火流星监测网', link: '/meteor/DFN' },
+                    { text: '光子到电子到数字', link: '/meteor/photon_to_digit' }
                 ]
             },
             {
