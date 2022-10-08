@@ -12,6 +12,12 @@ export default {
         ],
         sidebar: [
             {
+                items: [{
+                    text: '文档中心',
+                    link: '/preface'
+                }]
+            },
+            {
                 text: '流星探测理论',
                 items: [
                     { text: '前言', link: '/meteor/motivation' },
@@ -19,7 +25,8 @@ export default {
                     { text: '流星探测原理（2）', link: '/meteor/concepts2' },
                     { text: '世界上的流星监测网', link: '/meteor/networks' },
                     { text: '澳大利亚沙漠火流星监测网', link: '/meteor/DFN' },
-                    { text: '光子到电子到数字', link: '/meteor/photon_to_digit' }
+                    { text: '光子到电子到数字', link: '/meteor/photon_to_digit' },
+                    { text: '网络摄像头的错误设置', link: '/meteor/wrong_settings' }
                 ]
             },
             {
@@ -37,6 +44,10 @@ export default {
 
             {
                 items: [{
+                    text: '首页',
+                    link: '/index'
+                },
+                {
                     text: '京ICP备19031740号-2',
                     link: 'https://beian.miit.gov.cn/'
                 }]
