@@ -13,7 +13,7 @@
 * [澳大利亚沙漠火流星监测网](meteor/DFN.md)
 * [光子到电子到数字](/meteor/photon_to_digit)
 * [网络摄像头的错误设置](/meteor/wrong_settings)
-* [如何拍到更多流星？](/docs/meteor/camera)
+* [如何拍到更多流星？](/meteor/camera)
 
 
 ## 架设流星探测设备
