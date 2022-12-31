@@ -32,9 +32,12 @@ export default {
                 ]
             },
             {
-                text: '架设流星探测设备',
+                text: '从零到一搭建流星监控设备',
                 items: [
-                    { text: '从零到一搭建流星监控设备', link: '/hardware/howto' }
+                    { text: '主要构成', link: '/hardware/howto' },
+                    { text: '相机部分', link: '/hardware/camera' },
+                    { text: '电脑部分', link: '/hardware/computer' },
+                    { text: '支架和安装', link: '/hardware/casing' }
                 ]
             },
             {

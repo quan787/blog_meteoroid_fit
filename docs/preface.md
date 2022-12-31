@@ -16,11 +16,14 @@
 * [如何拍到更多流星？](/meteor/camera)
 
 
-## 架设流星探测设备
+## 从零到一搭建流星监控设备
 
 从零开始，搭建一套可以自动运行、远程管理的流星观测站。
 
-* [从零到一搭建流星监控设备](hardware/howto)
+* [流星监测站的主要构成](hardware/howto)
+* [相机部分](hardware/camera)
+* [电脑部分](hardware/computer)
+* [支架和安装](hardware/casing)
 
 ## 网站使用说明
 
