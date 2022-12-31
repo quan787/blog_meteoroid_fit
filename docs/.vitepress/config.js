@@ -34,7 +34,7 @@ export default {
             {
                 text: '架设流星探测设备',
                 items: [
-                    { text: '从零到一搭建流星监控设备', link: '/harware/howto' }
+                    { text: '从零到一搭建流星监控设备', link: '/hardware/howto' }
                 ]
             },
             {
