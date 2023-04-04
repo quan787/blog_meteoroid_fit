@@ -17,7 +17,6 @@ hero:
     - theme: alt
       text: 在GitHub上查看
       link: https://github.com/quan787/blog_meteoroid_fit
-
 # features:
 #   - title: <a href="https://google.com/">link</a>
 #     details: 1

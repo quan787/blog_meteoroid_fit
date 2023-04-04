@@ -6,24 +6,23 @@
 
 这里是流星探测的技术博客，记录了在我们的流星观测中的发现和思考。
 
-* [前言](meteor/motivation)
-* [流星探测原理（1）](meteor/concepts)
-* [流星探测原理（2）](meteor/concepts2)
-* [世界上的流星监测网](meteor/networks)
-* [澳大利亚沙漠火流星监测网](meteor/DFN.md)
-* [光子到电子到数字](/meteor/photon_to_digit)
-* [网络摄像头的错误设置](/meteor/wrong_settings)
-* [如何拍到更多流星？](/meteor/camera)
-
+- [前言](meteor/motivation)
+- [流星探测原理（1）](meteor/concepts)
+- [流星探测原理（2）](meteor/concepts2)
+- [世界上的流星监测网](meteor/networks)
+- [澳大利亚沙漠火流星监测网](meteor/DFN.md)
+- [光子到电子到数字](/meteor/photon_to_digit)
+- [网络摄像头的错误设置](/meteor/wrong_settings)
+- [如何拍到更多流星？](/meteor/camera)
 
 ## 从零到一搭建流星监控设备
 
 从零开始，搭建一套可以自动运行、远程管理的流星观测站。
 
-* [流星监测站的主要构成](hardware/howto)
-* [相机部分](hardware/camera)
-* [电脑部分](hardware/computer)
-* [支架和安装](hardware/casing)
+- [流星监测站的主要构成](hardware/howto)
+- [相机部分](hardware/camera)
+- [电脑部分](hardware/computer)
+- [支架和安装](hardware/casing)
 
 ## 网站使用说明
 
