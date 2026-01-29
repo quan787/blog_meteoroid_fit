@@ -90,3 +90,33 @@ M_O_PX00 = 1234.5      / Object 00 Pixel X
 M_O_PY00 = 567.8       / Object 00 Pixel Y
 M_O_MG00 = -1.5        / Object 00 Magnitude
 ```
+
+---
+
+## 4. BinTable HDU: M_STAR (星表与模型)
+
+该扩展名为 `M_STAR`，是一个二进制表格（Binary Table）。
+
+### 4.1 Header：模型参数
+
+相机校准和测光模型的参数作为 Header 关键字存储。为了兼容 FITS 关键字长度限制，Python 中的字典 Key 会被截断为 4 个字符并大写。
+
+- **`M_C_{KEY}`**: 校准模型参数 (Calibration)。例如 Python 中的 `r00` 变为 `M_C_R00`。
+- **`M_P_{KEY}`**: 测光模型参数 (Photometry)。
+- **`M_CRSLT`**: 校准结果描述字符串。
+- **`M_CRES`** / **`M_PRES`**: 校准残差 / 测光残差。
+
+### 4.2 Table Data：参考恒星
+
+表格包含用于定标的恒星列表，列定义如下：
+
+| 列名 (TTYPE) | 单位   | 说明                   |
+| :----------- | :----- | :--------------------- |
+| `star_name`  | String | 恒星标识 (如 HIP 编号) |
+| `star_pic_x` | Pix    | 图像 X 坐标            |
+| `star_pic_y` | Pix    | 图像 Y 坐标            |
+| `star_eci_x` | km     | ECI J2000 X 坐标       |
+| `star_eci_y` | km     | ECI J2000 Y 坐标       |
+| `star_eci_z` | km     | ECI J2000 Z 坐标       |
+| `star_mag`   | mag    | 目录星等               |
+| `star_flux`  | ADU    | 实测光通量             |
