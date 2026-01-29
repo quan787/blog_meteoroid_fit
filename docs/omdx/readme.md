@@ -55,6 +55,8 @@
 | `calibration`     | 包含相机校准模型 | `calibration_model`, `calibration_residual` 等                                                       |
 | `photometry`      | 包含测光模型     | `photometry_model`, `photometry_residual` 等                                                         |
 
+_详细信息请参照[OMDX Python SDK API 参考手册](https://blog.meteoroid.fit/omdx/fits.html)_
+
 ### 保存格式
 
 `MeteorObservation` 类提供了两种数据持久化方案，以适应不同的使用场景：
