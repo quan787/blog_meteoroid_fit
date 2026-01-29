@@ -24,6 +24,16 @@ export default {
         ],
       },
       {
+        text: "omdx - 开放流星数据交换标准",
+        items: [
+          { text: "项目概况", link: "/omdx/readme" },
+          { text: "MeteorObservation 格式", link: "/omdx/data_class" },
+          { text: "FITS 文件", link: "/omdx/fits" },
+          // { text: "omdx 播放器", link: "/omdx/player" },
+          { text: "将 UFOCapture 转换为 omdx", link: "/omdx/ufo_to_omdx" },
+        ],
+      },
+      {
         text: "流星探测理论",
         items: [
           { text: "前言", link: "/meteor/motivation" },
