@@ -2,6 +2,14 @@
 
 [![Deploy](https://github.com/quan787/blog_meteoroid_fit/actions/workflows/deploy.yml/badge.svg)](https://github.com/quan787/blog_meteoroid_fit/actions/workflows/deploy.yml)
 
+## OMDX (Open Meteor Data Exchange) 数据标准
+
+- [项目概况](omdx/readme.md)
+- [MeteorObservation 格式](omdx/data_class.md)
+- [FIST 文件](omdx/fits.md)
+- [数据查看器](omdx/player.md)
+- [将 UFOCapture 转换为 omdx](omdx/ufo_to_omdx.md)
+
 ## 流星探测理论
 
 这里是流星探测的技术博客，记录了在我们的流星观测中的发现和思考。

@@ -1,4 +1,4 @@
-# 工具：MeteorPlayer (观测数据浏览器)
+# 工具：MeteorPlayer (数据查看器)
 
 `omdx-player` 是一个基于 `tkinter` 和 `matplotlib` 的可视化工具，用于查看和校验符合 omdx 标准的数据文件。
 

@@ -29,7 +29,7 @@ export default {
           { text: "项目概况", link: "/omdx/readme" },
           { text: "MeteorObservation 格式", link: "/omdx/data_class" },
           { text: "FITS 文件", link: "/omdx/fits" },
-          // { text: "omdx 播放器", link: "/omdx/player" },
+          { text: "数据查看器", link: "/omdx/player" },
           { text: "将 UFOCapture 转换为 omdx", link: "/omdx/ufo_to_omdx" },
         ],
       },
