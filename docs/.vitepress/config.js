@@ -7,7 +7,6 @@ export default {
   themeConfig: {
     logo: "/icon.png",
     nav: [
-      { text: "模拟器", link: "http://demo.meteoroid.fit/coverage.html" },
       { text: "全景图", link: "http://demo.meteoroid.fit/pano/album.html" },
       {
         text: "文档源码",
@@ -53,15 +52,6 @@ export default {
           { text: "光子到电子到数字", link: "/meteor/photon_to_digit" },
           { text: "网络摄像头的错误设置", link: "/meteor/wrong_settings" },
           { text: "如何拍到更多流星？", link: "/meteor/camera" },
-        ],
-      },
-      {
-        text: "从零到一搭建流星监控设备",
-        items: [
-          { text: "主要构成", link: "/hardware/howto" },
-          { text: "相机部分", link: "/hardware/camera" },
-          { text: "电脑部分", link: "/hardware/computer" },
-          { text: "支架和安装", link: "/hardware/casing" },
         ],
       },
       {

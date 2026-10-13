@@ -32,15 +32,6 @@
 - [网络摄像头的错误设置](/meteor/wrong_settings)
 - [如何拍到更多流星？](/meteor/camera)
 
-## 从零到一搭建流星监控设备
-
-从零开始，搭建一套可以自动运行、远程管理的流星观测站。
-
-- [流星监测站的主要构成](hardware/howto)
-- [相机部分](hardware/camera)
-- [电脑部分](hardware/computer)
-- [支架和安装](hardware/casing)
-
 ## 网站使用说明
 
 在网站上管理你的设备和数据，与大家一起探究流星的奥秘
