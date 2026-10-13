@@ -2,6 +2,15 @@
 
 [![Deploy](https://github.com/quan787/blog_meteoroid_fit/actions/workflows/deploy.yml/badge.svg)](https://github.com/quan787/blog_meteoroid_fit/actions/workflows/deploy.yml)
 
+## 流星多站视频监测网
+
+了解M³流星多站视频监测网，参与站点建设、联合观测与天文科普。
+
+- [总体介绍和参数指标](network/overview.md)
+- [布站要求](network/site-requirements.md)
+- [布站合作协议](network/cooperation.md)
+- [硬件设备和平台使用方法](network/user-guide.md)
+
 ## OMDX (Open Meteor Data Exchange) 数据标准
 
 - [项目概况](omdx/readme.md)

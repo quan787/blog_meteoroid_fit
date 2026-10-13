@@ -24,6 +24,15 @@ export default {
         ],
       },
       {
+        text: "流星多站视频监测网",
+        items: [
+          { text: "总体介绍和参数指标", link: "/network/overview" },
+          { text: "布站要求", link: "/network/site-requirements" },
+          { text: "布站合作协议", link: "/network/cooperation" },
+          { text: "硬件设备和平台使用方法", link: "/network/user-guide" },
+        ],
+      },
+      {
         text: "omdx - 开放流星数据交换标准",
         items: [
           { text: "项目概况", link: "/omdx/readme" },
