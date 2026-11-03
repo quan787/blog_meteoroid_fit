@@ -28,7 +28,8 @@ export default {
           { text: "总体介绍和参数指标", link: "/network/overview" },
           { text: "布站要求", link: "/network/site-requirements" },
           { text: "布站合作协议", link: "/network/cooperation" },
-          { text: "硬件设备和平台使用方法", link: "/network/user-guide" },
+          { text: "硬件设备介绍", link: "/network/equipment" },
+          { text: "数据平台使用方法", link: "/network/user-guide" },
         ],
       },
       {

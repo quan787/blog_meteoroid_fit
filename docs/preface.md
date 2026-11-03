@@ -9,7 +9,8 @@
 - [总体介绍和参数指标](network/overview.md)
 - [布站要求](network/site-requirements.md)
 - [布站合作协议](network/cooperation.md)
-- [硬件设备和平台使用方法](network/user-guide.md)
+- [硬件设备介绍](network/equipment.md)
+- [数据平台使用方法](network/user-guide.md)
 
 ## OMDX (Open Meteor Data Exchange) 数据标准
 
