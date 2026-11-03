@@ -142,33 +142,3 @@
 添加成功后，系统可按节点通知规则，将重要状态通知发送到这些邮箱。请留意收件箱和垃圾邮件文件夹；并非每条运行事件都会发送邮件，完整运行记录请在 **事件记录** 中查看。
 
 联系人变更时，可删除不再使用的邮箱，并添加、保存新的邮箱。若提示保存失败，请确认邮箱填写正确并重试，仍无法保存时联系管理员。
-
-本文来自 [METEOROID.FIT 用户操作说明](https://github.com/meteoroid-fit/meteoroid-fit/blob/98122c8998b9f102665df494c879de19eea8e1d8/docs/user-guide/README.md)。
-
-::: details 上游文档许可
-
-~~~text
-MIT License
-
-Copyright (c) 2021 CodedThemes
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-~~~
-
-:::
